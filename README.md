@@ -1,5 +1,5 @@
 # 9.-An-Overtime-Program
- a program called “Timesheet”. The program should calculate
+ A program called “Timesheet”. The program should calculate
 and display a worker’s total weekly pay as well as their average number of hours worked
 per day, and their average pay per hour after overtime pay.
 The user will be able to enter:
